@@ -1,1 +1,1 @@
-# logistic-regressionmodel-with-titanic-dataset
+Fitted a logistic regression model using titanic dataset
